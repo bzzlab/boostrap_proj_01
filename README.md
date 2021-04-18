@@ -1,5 +1,4 @@
 # Boostrap Projekt LoopLAB
-Mehr Infos zum Projekt finden Sie in den Unterrichtsunterlagen.
 
 By Brad Traversy, May 2018
 
